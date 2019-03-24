@@ -342,5 +342,37 @@
       "Step 3: Lightly oil the grill grate. Discard marinade. Place steaks on the grill, and cook 7 minutes on each side, or to desired doneness."
     ]
   }
+  {
+    "id":"11",
+    "name":"BBQ NY Strip",
+    "category":"Steak",
+    "description":"Grilled tasty, tender steak",
+    "time":{
+      "prepTime":"15 min",
+      "cookTime":"15 min",
+      "totalTime":"2hr 30 min"
+    },
+    "nutritionFacts":{
+      "fat":"",
+      "calories":"",
+      "cholesterol":"",
+      "carbohydrates":""
+    },
+    "ingredients":[
+      "1/2 cup extra virgin olive oil",
+      "1/2 cup Worcestershire sauce",
+      "1/4 cup minced garlic",
+      "1/4 cup steak seasoning",
+      "1 tablespoon red wine vinegar",
+      "1/2 teaspoon dried basil",
+      "1/2 teaspoon Italian seasoning",
+      "4 (1/2 pound) New York strip steaks"
+    ],
+    "directions":[
+      "Step 1: In a bowl, mix the olive oil, Worcestershire sauce, garlic, steak seasoning, red wine vinegar, basil, and Italian seasoning. Pour into a large resealable plastic bag. Pierce steaks on all sides with a fork, and place in the bag. Gently shake to coat. Seal bag and marinate steaks a minimum of 2 hours in the refrigerator.",
+      "Step 2: Preheat grill for high heat.",
+      "Step 3: Lightly oil the grill grate. Discard marinade. Place steaks on the grill, and cook 7 minutes on each side, or to desired doneness."
+    ]
+  }
 ]
 }
