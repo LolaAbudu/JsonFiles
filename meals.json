@@ -6,9 +6,9 @@
     "category":"Soup",
     "description":"Shrimp sweetened, slow-cooked leeks with potatoes creamy soup",
     "time":{
-      "prepTime":"15 min",
-      "cookTime":"25 min",
-      "totalTime":"40 min"
+      "prepTime":"15 min\n",
+      "cookTime":"25 min\n",
+      "totalTime":"40 min\n"
     },
     "nutritionFacts":{
       "fat":"7.4 g",
